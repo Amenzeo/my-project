@@ -1,1 +1,1 @@
-My first try in git
+warning: LF will be replaced by CRLF in Begin.py.
